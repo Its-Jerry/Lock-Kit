@@ -21,7 +21,7 @@ Screenshot 2.
 - [Its-Jerry](https://github.com/Its-Jerry)
 
 
-#  Installation
+## Installation
 
 - Step 1. Clone the code by git clone. 
 
@@ -39,14 +39,14 @@ git clone https://github.com/Its-Jerry/LOCK-KIT.git
 so you Press 3 and then Press Enter. You see a help section. You can read it for help.
 
     
-#  Features
+## Features
 
  - User friendly interface.
  - Reset multiple users password.
  - Check the list of users avilable in your system.
  - Easily see the details about the the users like ( type of Account ).
 
-#  Testing 
+## Testing 
 
 This tool is tested on :
 
