@@ -6,20 +6,24 @@ Change Your WIndows pc password without any pervious pasword.
 
 The LOCK-KIT tool is basically used to set or reset the Windows users password without knowing any previous password. 
 
-
-## Screenshot
-Screenshot 1.
-![Alt text](Screenshort/username.PNG)   
-Screenshot 2.
-![Alt text](Screenshort/helpsection.PNG)
-
-
-
-
 ## Authors
 
 - [Its-Jerry](https://github.com/Its-Jerry)
 
+## Screenshot
+Screenshot 1.
+  ![username](https://user-images.githubusercontent.com/126962359/227423038-6fc896da-a2a4-43fa-8916-0e795e18433c.PNG)
+
+Screenshot 2.
+
+![helpsection](https://user-images.githubusercontent.com/126962359/227423118-121d3584-675a-47a9-aa8c-e05efe13e4f7.PNG)
+
+## Features
+
+ - User friendly interface.
+ - Reset multiple users password.
+ - Check the list of users avilable in your system.
+ - Easily see the details about the the users like ( type of Account ).
 
 ## Installation
 
@@ -39,12 +43,7 @@ git clone https://github.com/Its-Jerry/LOCK-KIT.git
 so you Press 3 and then Press Enter. You see a help section. You can read it for help.
 
     
-## Features
 
- - User friendly interface.
- - Reset multiple users password.
- - Check the list of users avilable in your system.
- - Easily see the details about the the users like ( type of Account ).
 
 ## Testing 
 
