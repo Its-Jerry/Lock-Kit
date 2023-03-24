@@ -30,8 +30,6 @@ Screenshot 2.
 - Step 1. Clone the code by git clone. 
 
 ```bash
-  # Just simply download it by the git clone. And clone it
-       
 git clone https://github.com/Its-Jerry/Lock-Kit.git 
 ```
    ( You can also download the zip file directly. ) 
