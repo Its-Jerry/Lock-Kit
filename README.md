@@ -32,7 +32,7 @@ Screenshot 2.
 ```bash
   # Just simply download it by the git clone. And clone it
        
-git clone https://github.com/Its-Jerry/LOCK-KIT.git 
+git clone https://github.com/Its-Jerry/Lock-Kit.git 
 ```
    ( You can also download the zip file directly. ) 
 
